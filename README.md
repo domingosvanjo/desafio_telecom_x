@@ -1,4 +1,4 @@
-<a href='https://github.com/domingosvanjo/alurastoreBr/blob/master/AluraStoreBr.ipynb'><img width='100%' height="290px" src=".\img\hisGastMXevadido.png"></a>
+<a href='https://github.com/domingosvanjo/desafio_telecom_x/blob/master//TelecomX_BR.ipynb'><img width='100%' height="290px" src=".\img\hisGastMXevadido.png"></a>
 
 # Desafio do curso de Data Science Telecom X
 Um desafio de analisar um banco de dados no formato json, fazendo a extração, transformação e carga dos dados, para descobrir o motivo da alta taxa de evasão de clientes.
@@ -13,7 +13,7 @@ No arquivo <a href=\TelecomX_BR.ipynb>principal</a> você encontra as análises 
 Na conclusão do projeto um relatório final com uma análise descritiva e visual descrevendo o passo a passo feito, um resumo da análise e recomendações para a gerência avaliar com fins de evitar futuros cancelamentos de clientes.
 
 ## Link para o projeto
-<a href='https://github.com/domingosvanjo/alurastoreBr/blob/master/AluraStoreBr.ipynb'>Acesse o projeto aqui </a>
+<a href='https://github.com/domingosvanjo/desafio_telecom_x/blob/master//TelecomX_BR.ipynb'>Acesse o projeto aqui </a>
 
 ## Ferramentas utilizadas
 
